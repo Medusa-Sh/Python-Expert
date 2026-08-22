@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="mARxgQ9rV252GFSI5FsW">
+    <mxGraphModel dx="4812" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffcd28;align=center;verticalAlign=middle;rounded=0;gradientColor=#ffa500;" value="Greet to the user and ask their name" vertex="1">
+          <mxGeometry height="90" width="240" x="-3100" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3098" y="-250" as="sourcePoint" />
+            <mxPoint x="-3268" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Input their name" vertex="1">
+          <mxGeometry height="60" width="120" x="-3380" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-15" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="Actor" vertex="1">
+          <mxGeometry height="100" width="60" x="-2740" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-16" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-2730" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-17" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-2720" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-24" parent="1" style="shape=xor;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#FFFF00;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="-2660" y="-460" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=5;endSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3300" y="-110" as="sourcePoint" />
+            <mxPoint x="-3170" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="Ask their mood" vertex="1">
+          <mxGeometry height="100" width="160" x="-3160" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-34" edge="1" parent="1" source="mVNk1HcdnLZGFHqDhI7u-32" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;fillColor=#fad9d5;strokeColor=#ae4132;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2980" y="-30" as="sourcePoint" />
+            <mxPoint x="-2900" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mVNk1HcdnLZGFHqDhI7u-35" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Respond their answer&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="170" x="-2870" y="-10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
