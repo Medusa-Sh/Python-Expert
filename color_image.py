@@ -23,7 +23,7 @@ def apply_color_filter(image, filter_type):
        filtered_image[:,:,1]=cv2.subtract(filtered_image[:,:,1],30)
     return filtered_image
 
-image_path='cat.jpg'  # Replace with your image path
+image_path='example.jpg'  # Replace with your image path
 image=cv2.imread(image_path)
 if image is None:
      print("Error: Image not found!")
